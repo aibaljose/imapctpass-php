@@ -1,0 +1,907 @@
+2025-10-19 14:40:56 - Payment received: Payment ID: pay_RVKpTQHm2mHRah, Order ID: order_RVKpAp4YQkvbja, Booking ID: 12
+2025-10-19 14:42:19 - Payment received: Payment ID: pay_RVKpTQHm2mHRah, Order ID: order_RVKpAp4YQkvbja, Booking ID: 12
+2025-10-19 14:45:23 - Payment received: Payment ID: pay_RVKuAprgCedEfe, Order ID: order_RVKtz9CTeY3w9N, Booking ID: 13
+2025-10-19 14:56:47 - Payment received: Payment ID: pay_RVL6DiC75c4mcj, Order ID: order_RVL61hgOSCgWVS, Booking ID: 14
+2025-10-19 15:54:54 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+    [success_message] => Login successful
+)
+
+2025-10-19 15:55:08 - LOGIN SUCCESS - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+    [success_message] => Login successful
+)
+
+2025-10-19 15:55:08 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+    [success_message] => Login successful
+)
+
+2025-10-19 15:56:58 - LOGIN SUCCESS - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+    [success_message] => Login successful
+)
+
+2025-10-19 15:56:58 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+    [success_message] => Login successful
+)
+
+2025-10-19 15:57:14 - NAV LOAD - SESSION: Array
+(
+)
+
+2025-10-19 16:29:50 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:29:53 - NAV LOAD - SESSION: Array
+(
+)
+
+2025-10-19 16:30:04 - LOGIN SUCCESS - SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+    [success_message] => Login successful
+)
+
+2025-10-19 16:30:04 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+    [success_message] => Login successful
+)
+
+2025-10-19 16:30:10 - NAV LOAD - SESSION: Array
+(
+)
+
+2025-10-19 16:32:44 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+)
+
+2025-10-19 16:32:44 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+)
+
+2025-10-19 16:32:44 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+)
+
+2025-10-19 16:32:53 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?logout=1
+)
+
+2025-10-19 16:32:55 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?logout=1
+)
+
+2025-10-19 16:34:08 - LOGIN SUCCESS - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+    [success_message] => Login successful
+)
+
+2025-10-19 16:34:08 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+    [success_message] => Login successful
+)
+
+2025-10-19 16:34:11 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:34:14 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:34:39 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:34:42 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:34:44 - NAV LOAD - SESSION: Array
+(
+)
+
+2025-10-19 16:34:44 - NAV LOAD - SESSION: Array
+(
+)
+
+2025-10-19 16:34:47 - NAV LOAD - SESSION: Array
+(
+)
+
+2025-10-19 16:34:51 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+)
+
+2025-10-19 16:34:55 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+)
+
+2025-10-19 16:35:03 - LOGIN SUCCESS - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+    [success_message] => Login successful
+)
+
+2025-10-19 16:35:03 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+    [success_message] => Login successful
+)
+
+2025-10-19 16:35:06 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:35:08 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:35:09 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:36:05 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:36:08 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:36:10 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:36:14 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:36:17 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:36:24 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:36:52 - Payment received: Payment ID: pay_RVMnvFeQDn9coH, Order ID: order_RVMne5DmalROm3, Booking ID: 15
+2025-10-19 16:36:53 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+    [success_message] => Payment verified successfully!
+)
+
+2025-10-19 16:37:08 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:38:42 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:38:55 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:39:11 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:39:16 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:39:22 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:39:26 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:39:35 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:43:48 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:44:23 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 16:52:43 - NAV LOAD - SESSION: Array
+(
+)
+
+2025-10-19 16:52:43 - NAV LOAD - SESSION: Array
+(
+)
+
+2025-10-19 16:52:43 - NAV LOAD - SESSION: Array
+(
+)
+
+2025-10-19 16:52:48 - LOGIN SUCCESS - SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+    [user_role] => 
+    [success_message] => Login successful
+)
+
+2025-10-19 16:52:48 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+    [user_role] => 
+    [success_message] => Login successful
+)
+
+2025-10-19 16:53:03 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+    [user_role] => 
+)
+
+2025-10-19 16:53:14 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+    [user_role] => 
+)
+
+2025-10-19 16:53:33 - NAV LOAD - SESSION: Array
+(
+)
+
+2025-10-19 16:53:34 - NAV LOAD - SESSION: Array
+(
+)
+
+2025-10-19 16:54:01 - LOGIN SUCCESS - SESSION: Array
+(
+    [success_message] => Login successful
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => 
+)
+
+2025-10-19 16:54:01 - NAV LOAD - SESSION: Array
+(
+    [success_message] => Login successful
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => 
+)
+
+2025-10-19 16:54:04 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => 
+)
+
+2025-10-19 16:54:10 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => 
+)
+
+2025-10-19 16:54:51 - NAV LOAD - SESSION: Array
+(
+)
+
+2025-10-19 16:54:51 - NAV LOAD - SESSION: Array
+(
+)
+
+2025-10-19 16:55:05 - LOGIN SUCCESS - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+    [success_message] => Login successful
+)
+
+2025-10-19 16:55:05 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+    [success_message] => Login successful
+)
+
+2025-10-19 16:56:13 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 16:56:13 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 16:56:13 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 16:56:13 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 16:56:13 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 16:56:13 - NAV LOAD - SESSION: Array
+(
+)
+
+2025-10-19 16:57:50 - LOGIN SUCCESS - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+    [success_message] => Login successful
+)
+
+2025-10-19 16:57:50 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+    [success_message] => Login successful
+)
+
+2025-10-19 16:58:52 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 16:59:09 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 16:59:24 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 16:59:28 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:01:41 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:01:47 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:05:01 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:05:29 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:05:32 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:05:35 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:05:37 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:05:44 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:05:46 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:05:49 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:05:53 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:08:59 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:09:26 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 17:18:02 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:18:05 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:18:10 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:18:14 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:19:08 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 17:19:11 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 17:19:34 - Payment received: Payment ID: pay_RVNX0NpPRgFg4i, Order ID: order_RVNWpTuxn8pxOH, Booking ID: 16
+2025-10-19 17:19:34 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+    [success_message] => Payment verified successfully!
+)
+
+2025-10-19 17:19:41 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:19:44 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:19:52 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:19:58 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:20:03 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:20:05 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:20:10 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:22:01 - NAV LOAD - SESSION: Array
+(
+    [redirect_after_login] => /impactpass/book_event.php?id=1
+    [user_id] => 1
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosework@gmail.com
+)
+
+2025-10-19 17:22:07 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:22:25 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:22:59 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:27:32 - NAV LOAD - SESSION: Array
+(
+)
+
+2025-10-19 17:27:33 - NAV LOAD - SESSION: Array
+(
+)
+
+2025-10-19 17:27:33 - NAV LOAD - SESSION: Array
+(
+)
+
+2025-10-19 17:27:42 - LOGIN SUCCESS - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+    [success_message] => Login successful
+)
+
+2025-10-19 17:27:42 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+    [success_message] => Login successful
+)
+
+2025-10-19 17:27:49 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:27:59 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:28:03 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:28:04 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:28:25 - Payment received: Payment ID: pay_RVNgLkMhozYReK, Order ID: order_RVNgBbtnAjC0V9, Booking ID: 17
+2025-10-19 17:28:25 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+    [success_message] => Payment verified successfully!
+)
+
+2025-10-19 17:29:09 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
+2025-10-19 17:33:12 - NAV LOAD - SESSION: Array
+(
+    [user_id] => 2
+    [user_name] => Aibal Jose
+    [user_email] => aibaljosej@gmail.com
+    [user_role] => admin
+)
+
