@@ -7,6 +7,110 @@ if (!isset($_SESSION['user_id']) || $_SESSION['user_role'] != 'admin') {
     exit();
 }
 
+// If a fragment is requested, return the dashboard fragment (inner HTML only)
+if (isset($_GET['fragment'])) {
+    // produce counts and recent lists
+    global $conn;
+    $eventsCount = 0; $usersCount = 0; $bookingsCount = 0;
+    $r = $conn->query("SELECT COUNT(*) as c FROM events"); if ($r) { $eventsCount = $r->fetch_assoc()['c'] ?? 0; }
+    $r = $conn->query("SELECT COUNT(*) as c FROM users"); if ($r) { $usersCount = $r->fetch_assoc()['c'] ?? 0; }
+    $r = $conn->query("SELECT COUNT(*) as c FROM bookings"); if ($r) { $bookingsCount = $r->fetch_assoc()['c'] ?? 0; }
+
+    // render fragment HTML
+    ?>
+    <div class="max-w-7xl mx-auto">
+        <header class="flex items-center justify-between mb-6">
+            <div>
+                <h1 class="text-3xl font-bold">Dashboard</h1>
+                <p class="text-gray-600">Overview of site activity</p>
+            </div>
+            <div>
+                <form method="post" action="dashboard.php" data-ajax="true" class="inline-block">
+                    <button name="add_demo" class="bg-green-600 text-white px-4 py-2 rounded">Add Demo Events</button>
+                </form>
+            </div>
+        </header>
+
+        <!-- Stats -->
+        <div class="grid grid-cols-3 gap-6 mb-8">
+            <div class="bg-white p-4 rounded shadow">
+                <div class="text-sm text-gray-500">Events</div>
+                <div class="text-2xl font-bold"><?php echo intval($eventsCount); ?></div>
+                <div class="text-sm mt-2"><a href="manage_events.php" class="text-blue-600">Manage events</a></div>
+            </div>
+            <div class="bg-white p-4 rounded shadow">
+                <div class="text-sm text-gray-500">Bookings</div>
+                <div class="text-2xl font-bold"><?php echo intval($bookingsCount); ?></div>
+                <div class="text-sm mt-2"><a href="manage_bookings.php" class="text-blue-600">Manage bookings</a></div>
+            </div>
+            <div class="bg-white p-4 rounded shadow">
+                <div class="text-sm text-gray-500">Users</div>
+                <div class="text-2xl font-bold"><?php echo intval($usersCount); ?></div>
+                <div class="text-sm mt-2"><a href="manage_users.php" class="text-blue-600">Manage users</a></div>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-3 gap-6">
+            <!-- Recent events -->
+            <div class="col-span-1 bg-white p-4 rounded shadow">
+                <h3 class="font-semibold mb-3">Recent Events</h3>
+                <ul class="space-y-3">
+                    <?php
+                    $res = $conn->query("SELECT id, title, event_date FROM events ORDER BY event_date DESC LIMIT 5");
+                    while ($row = $res->fetch_assoc()): ?>
+                        <li class="flex justify-between items-center">
+                            <div>
+                                <div class="font-medium"><?php echo htmlspecialchars($row['title']); ?></div>
+                                <div class="text-sm text-gray-500"><?php echo $row['event_date']; ?></div>
+                            </div>
+                            <a href="manage_events.php?delete_event=<?php echo $row['id']; ?>&fragment=1" class="text-red-600 text-sm fragment-link" data-confirm="Delete event '<?php echo htmlspecialchars(addslashes($row['title'])); ?>'?">Delete</a>
+                        </li>
+                    <?php endwhile; ?>
+                </ul>
+            </div>
+
+            <!-- Recent bookings -->
+            <div class="col-span-1 bg-white p-4 rounded shadow">
+                <h3 class="font-semibold mb-3">Recent Bookings</h3>
+                <ul class="space-y-3">
+                    <?php
+                    $res = $conn->query("SELECT b.id, b.total_amount, b.payment_status, e.title, u.name FROM bookings b LEFT JOIN events e ON b.event_id=e.id LEFT JOIN users u ON b.user_id=u.id ORDER BY b.booking_date DESC LIMIT 5");
+                    while ($row = $res->fetch_assoc()): ?>
+                        <li class="flex justify-between items-center">
+                            <div>
+                                <div class="font-medium"><?php echo htmlspecialchars($row['title']); ?></div>
+                                <div class="text-sm text-gray-500"><?php echo htmlspecialchars($row['name'] ?? 'Unknown'); ?> • ₹<?php echo number_format($row['total_amount'],2); ?></div>
+                            </div>
+                            <div class="text-sm <?php echo ($row['payment_status']==='completed')? 'text-green-600' : 'text-yellow-600'; ?>"><?php echo $row['payment_status']; ?></div>
+                        </li>
+                    <?php endwhile; ?>
+                </ul>
+            </div>
+
+            <!-- Recent users -->
+            <div class="col-span-1 bg-white p-4 rounded shadow">
+                <h3 class="font-semibold mb-3">Recent Users</h3>
+                <ul class="space-y-3">
+                    <?php
+                    $res = $conn->query("SELECT id, name, email FROM users ORDER BY created_at DESC LIMIT 5");
+                    while ($row = $res->fetch_assoc()): ?>
+                        <li class="flex justify-between items-center">
+                            <div>
+                                <div class="font-medium"><?php echo htmlspecialchars($row['name']); ?></div>
+                                <div class="text-sm text-gray-500"><?php echo htmlspecialchars($row['email']); ?></div>
+                            </div>
+                            <a href="manage_users.php?delete_user=<?php echo $row['id']; ?>&fragment=1" class="text-red-600 text-sm fragment-link" data-confirm="Delete user '<?php echo htmlspecialchars(addslashes($row['name'])); ?>'?">Delete</a>
+                        </li>
+                    <?php endwhile; ?>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <?php
+    // end fragment
+    exit();
+}
+
 // We'll use fragments for content; dashboard shell keeps minimal PHP
 ?>
 

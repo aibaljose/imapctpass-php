@@ -46,15 +46,14 @@ header("Pragma: no-cache");
           </p>
 
           <div class="mt-8 flex flex-col sm:flex-row items-center sm:justify-center lg:justify-start gap-4 w-full">
-            <div
+            <a href="./events.php"><div
               class="bg-indigo-600 p-3 sm:w-auto w-full rounded-lg text-white cursor-pointer text-center"
-              "
             >
               View events
-            </div>
-            <div class="p-3 sm:w-auto w-full rounded-lg border-2 cursor-pointer text-center">
+            </div></a>
+            <a href="./events.php"><div class="p-3 sm:w-auto w-full rounded-lg border-2 cursor-pointer text-center">
               Learn More
-            </div>
+            </div></a>
           </div>
         </div>
 
